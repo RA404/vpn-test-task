@@ -4,4 +4,4 @@
 
 ## Desktop version starts at resolution above than 480px
 
-[Link to the projoct on GitHubPages](https://ra404.github.io/vpn-test-task/) - https://ra404.github.io/vpn-test-task/
+[Link to the projoct on GitHub Pages](https://ra404.github.io/vpn-test-task/) - https://ra404.github.io/vpn-test-task/
